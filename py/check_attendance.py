@@ -19,3 +19,13 @@ def khs8170():
 
 
 khs8170()
+
+
+def limgaram0831():
+    for each_student_data in data["student_data"]:
+        if each_student_data["name"] == "Garam Lim":
+            print('========================================')
+            print('limgaram0831 hobby: ' + each_student_data["hobby"])
+
+
+limgaram0831()
