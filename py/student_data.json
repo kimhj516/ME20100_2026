@@ -10,7 +10,9 @@
         },
         {
             "name": "Hyeonsu Kim",
-            "email": "khs8170@kaist.ac.kr"
+            "email": "khs8170@kaist.ac.kr", 
+            "favorite_restaurant": "Nobrandburger",
+	    "Hobby": "Watching movie"
         }
     ]
 }
