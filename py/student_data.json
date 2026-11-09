@@ -13,6 +13,10 @@
             "email": "khs8170@kaist.ac.kr", 
             "favorite_restaurant": "Nobrandburger",
 	    "Hobby": "Watching movie"
+        },
+        {
+            "name": "Garam Lim",
+            "email": "limgaram0831@kaist.ac.kr"
         }
     ]
 }
