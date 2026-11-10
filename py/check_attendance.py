@@ -29,3 +29,12 @@ def limgaram0831():
 
 
 limgaram0831()
+def enkhtur_munkh_erdene():
+    for student in data["student_data"]:
+        if student.get("email") == "enkhtur.munkh-erdene@kaist.ac.kr":
+            print("========================================")
+            print("Enkhtur Munkh-erdene hobby: " + student["hobby"])
+            return
+
+
+enkhtur_munkh_erdene()
