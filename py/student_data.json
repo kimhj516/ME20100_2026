@@ -10,9 +10,9 @@
         },
         {
             "name": "Hyeonsu Kim",
-            "email": "khs8170@kaist.ac.kr", 
+            "email": "khs8170@kaist.ac.kr",
             "favorite_restaurant": "Nobrandburger",
-	    "Hobby": "Watching movie"
+            "Hobby": "Watching movie"
         },
         {
             "name": "Garam Lim",
@@ -22,13 +22,18 @@
         {
             "name": "Enkhtur Munkh-erdene",
             "email": "enkhtur.munkh-erdene@kaist.ac.kr",
-	    "hobby": "Watching anime",
-	    "Nationality": "Mongolian"
+            "hobby": "Watching anime",
+            "Nationality": "Mongolian"
         },
         {
             "name": "Sanggeun Oh",
             "email": "osg2313@kaist.ac.kr",
             "favorite_sport": "Three-cushion billiards"
+        },
+        {
+            "name": "Azizbek Alijonov",
+            "email": "azizbekalijonov@kaist.ac.kr",
+            "hobby": "Playing football"
         }
     ]
 }
