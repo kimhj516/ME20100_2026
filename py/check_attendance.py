@@ -48,3 +48,13 @@ def osg2313():
 
 
 osg2313()
+
+
+def azizbekalijonov():
+    for student in data["student_data"]:
+        if student.get("email") == "azizbekalijonov@kaist.ac.kr":
+            print('========================================')
+            print('azizbekalijonov hobby: ' + student["hobby"])
+
+
+azizbekalijonov()
