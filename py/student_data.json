@@ -34,6 +34,11 @@
             "name": "Azizbek Alijonov",
             "email": "azizbekalijonov@kaist.ac.kr",
             "hobby": "Playing football"
-        }
+        },
+	{
+	    "name": "Seyun Kim",
+	    "email": "seyun003@kaist.ac.kr",
+            "hobby": "Listening to music"
+	}
     ]
 }
