@@ -58,3 +58,13 @@ def azizbekalijonov():
 
 
 azizbekalijonov()
+
+
+def seyun003():
+    for student in data["student_data"]:
+        if student.get("email") == "seyun003@kaist.ac.kr":
+            print('========================================')
+            print('seyun003 hobby: ' + student["hobby"])
+
+
+seyun003()
