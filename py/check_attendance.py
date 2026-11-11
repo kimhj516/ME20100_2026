@@ -19,3 +19,32 @@ def khs8170():
 
 
 khs8170()
+
+
+def limgaram0831():
+    for each_student_data in data["student_data"]:
+        if each_student_data["name"] == "Garam Lim":
+            print('========================================')
+            print('limgaram0831 hobby: ' + each_student_data["hobby"])
+
+
+limgaram0831()
+def enkhtur_munkh_erdene():
+    for student in data["student_data"]:
+        if student.get("email") == "enkhtur.munkh-erdene@kaist.ac.kr":
+            print("========================================")
+            print("Enkhtur Munkh-erdene hobby: " + student["hobby"])
+            return
+
+
+enkhtur_munkh_erdene()
+
+
+def osg2313():
+    for student in data["student_data"]:
+        if student.get("email") == "osg2313@kaist.ac.kr":
+            print('========================================')
+            print('osg2313 favorite_sport: ' + student["favorite_sport"])
+
+
+osg2313()

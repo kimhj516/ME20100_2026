@@ -13,6 +13,22 @@
             "email": "khs8170@kaist.ac.kr", 
             "favorite_restaurant": "Nobrandburger",
 	    "Hobby": "Watching movie"
+        },
+        {
+            "name": "Garam Lim",
+            "email": "limgaram0831@kaist.ac.kr",
+            "hobby": "Playing Soccer"
+        },
+        {
+            "name": "Enkhtur Munkh-erdene",
+            "email": "enkhtur.munkh-erdene@kaist.ac.kr",
+	    "hobby": "Watching anime",
+	    "Nationality": "Mongolian"
+        },
+        {
+            "name": "Sanggeun Oh",
+            "email": "osg2313@kaist.ac.kr",
+            "favorite_sport": "Three-cushion billiards"
         }
     ]
 }
