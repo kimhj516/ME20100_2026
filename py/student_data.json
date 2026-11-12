@@ -49,6 +49,11 @@
             "name": "Sanggeun Oh",
             "email": "osg2313@kaist.ac.kr",
             "favorite_sport": "Swimming"
+        },
+        {
+            "name": "Seokhan Woo",
+            "email": "seokhan5464@kaist.ac.kr",
+            "hobby": "Running"
         }
     ]
 }
