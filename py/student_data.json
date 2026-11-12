@@ -59,6 +59,11 @@
 	    "name": "Javohir Aliev",
     	    "email": "javokhiraliev@kaist.ac.kr",
             "favorite_sport": "UFC"
-     	}
+     	},
+        {
+            "name": "Woojae Chung",
+            "email": "c.woozzai_13@kaist.ac.kr",
+            "favorite_food": "Chicken"
+        }
     ]
 }
