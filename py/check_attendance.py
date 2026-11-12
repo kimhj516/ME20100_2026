@@ -68,3 +68,13 @@ def seyun003():
 
 
 seyun003()
+
+
+def kimyejun0113():
+    for student in data["student_data"]:
+        if student.get("email") == "kimyejun0113@kaist.ac.kr":
+            print('========================================')
+            print('kimyejun0113 favorite_programming_language: ' + student["favorite_programming_language"])
+
+
+kimyejun0113()

@@ -42,7 +42,8 @@
         },
         {
             "name": "Yejun Kim",
-            "email": "kimyejun0113@kaist.ac.kr"
+            "email": "kimyejun0113@kaist.ac.kr",
+            "favorite_programming_language": "C"
         }
     ]
 }
