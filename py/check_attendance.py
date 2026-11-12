@@ -106,3 +106,13 @@ def javokhiraliev():
             print('javokhiraliev favorite sport: ' + student["favorite_sport"])
 
 javokhiraliev()
+
+
+def c_woozzai_13():
+    for student in data["student_data"]:
+        if student.get("email") == "c.woozzai_13@kaist.ac.kr":
+            print("========================================")
+            print("c.woozzai_13 favorite_food: " + student["favorite_food"])
+
+
+c_woozzai_13()
