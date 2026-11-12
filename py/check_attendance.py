@@ -98,3 +98,11 @@ def seokhan5464():
 
 
 seokhan5464()
+
+def javokhiraliev():
+    for student in data["student_data"]:
+        if student.get("email") == "javokhiraliev@kaist.ac.kr":
+            print('====================================')
+            print('javokhiraliev favorite sport: ' + student["favorite_sport"])
+
+javokhiraliev()

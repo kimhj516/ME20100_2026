@@ -54,6 +54,11 @@
             "name": "Seokhan Woo",
             "email": "seokhan5464@kaist.ac.kr",
             "hobby": "Running"
-        }
+        },
+	{
+	    "name": "Javohir Aliev",
+    	    "email": "javokhiraliev@kaist.ac.kr",
+            "favorite_sport": "UFC"
+     	}
     ]
 }
