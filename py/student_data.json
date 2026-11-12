@@ -39,6 +39,10 @@
             "name": "Seyun Kim",
             "email": "seyun003@kaist.ac.kr",
             "hobby": "Listening to music"
+        },
+        {
+            "name": "Yejun Kim",
+            "email": "kimyejun0113@kaist.ac.kr"
         }
     ]
 }
