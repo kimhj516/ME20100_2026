@@ -78,3 +78,13 @@ def kimyejun0113():
 
 
 kimyejun0113()
+
+
+def joshualisky():
+    for student in data["student_data"]:
+        if student.get("email") == "joshualisky@kaist.ac.kr":
+            print('========================================')
+            print('joshualisky favorite_food: ' + student["favorite_food"])
+
+
+joshualisky()

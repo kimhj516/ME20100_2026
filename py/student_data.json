@@ -47,7 +47,8 @@
         },
         {
             "name": "Minseok Li",
-            "email": "joshualisky@kaist.ac.kr"
+            "email": "joshualisky@kaist.ac.kr",
+            "favorite_food": "Spaghetti"
         }
     ]
 }
