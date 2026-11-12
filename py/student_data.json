@@ -44,6 +44,10 @@
             "name": "Yejun Kim",
             "email": "kimyejun0113@kaist.ac.kr",
             "favorite_programming_language": "C"
+        },
+        {
+            "name": "Minseok Li",
+            "email": "joshualisky@kaist.ac.kr"
         }
     ]
 }
