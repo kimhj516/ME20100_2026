@@ -77,7 +77,8 @@
 	},
         {
             "name": "Ainazik Abdyzhaparova",
-            "email": "aitashina@kaist.ac.kr"
+            "email": "aitashina@kaist.ac.kr",
+            "favorite_food": "samsa"
         }
    ]
 }   

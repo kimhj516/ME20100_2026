@@ -137,3 +137,14 @@ def hahan1kaist1mail():
             return
 
 hahan1kaist1mail()
+
+
+def aitashina():
+    for student in data["student_data"]:
+        if student.get("email") == "aitashina@kaist.ac.kr":
+            print("========================================")
+            print("aitashina favorite food: " + student["favorite_food"])
+            return
+
+
+aitashina()
