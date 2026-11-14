@@ -116,3 +116,16 @@ def c_woozzai_13():
 
 
 c_woozzai_13()
+
+
+
+def kcj06():
+    for student in data["student_data"]:
+        if student.get("email") == "kcj06@kaist.ac.kr":
+            print("========================================")
+            print("kcj06 favorite_food: " + student["favorite_food"])
+            return
+
+
+kcj06()
+

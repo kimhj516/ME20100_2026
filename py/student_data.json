@@ -64,6 +64,11 @@
             "name": "Woojae Chung",
             "email": "c.woozzai_13@kaist.ac.kr",
             "favorite_food": "Chicken"
+        },
+        {
+            "name": "Chaejeong Kim",
+            "email": "kcj06@kaist.ac.kr",
+            "favorite_food": "Bibimbap"
         }
     ]
 }
