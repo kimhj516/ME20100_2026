@@ -129,3 +129,11 @@ def kcj06():
 
 kcj06()
 
+def hahan1kaist1mail():
+    for student in data["student_data"]:
+        if student.get("email") == "hahan1kaist1mail@kaist.ac.kr":
+            print("========================================")
+            print("hahan1kaist1mail's hobby: " + student["hobby"])
+            return
+
+hahan1kaist1mail()

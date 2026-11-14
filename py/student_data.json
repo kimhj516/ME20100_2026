@@ -69,6 +69,11 @@
             "name": "Chaejeong Kim",
             "email": "kcj06@kaist.ac.kr",
             "favorite_food": "Bibimbap"
-        }
+        },
+	{
+	    "name": "Pham Tuan Kiet",
+	    "email": "hahan1kaist1mail@kaist.ac.kr",
+	    "hobby": "Watching Anime"
+	}
     ]
 }
