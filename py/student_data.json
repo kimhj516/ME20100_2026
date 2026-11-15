@@ -1,6 +1,11 @@
 {
     "student_data": [
         {
+            "name": "Suji Lee",
+            "email": "sujilia@kaist.ac.kr",
+            "favorite_food": "KimchiJjigae"
+        },
+        {
             "name": "Hyun Jin Kim",
             "email": "kim.hyunjin@kaist.ac.kr"
         },
@@ -79,6 +84,11 @@
             "name": "Ainazik Abdyzhaparova",
             "email": "aitashina@kaist.ac.kr",
             "favorite_food": "samsa"
-        }
+        },
+	{
+	    "name": "Jaemin Choi",
+	    "email": "2025cjm@kaist.ac.kr",
+	    "favorite_restaurant": "Rolling Pasta"
+	}
    ]
 }   

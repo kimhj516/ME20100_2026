@@ -148,3 +148,23 @@ def aitashina():
 
 
 aitashina()
+
+def _2025cjm():
+    for student in data["student_data"]:
+        if student.get("email") == "2025cjm@kaist.ac.kr":
+            print("========================================")
+            print("2025cjm favorite restaurant: " + student["favorite_restaurant"])
+            return
+
+_2025cjm()
+
+
+def sujilia():
+    for student in data["student_data"]:
+        if student.get("email") == "sujilia@kaist.ac.kr":
+            print("========================================")
+            print("sujilia favorite_food: " + student["favorite_food"])
+            return
+
+
+sujilia()
