@@ -157,3 +157,14 @@ def _2025cjm():
             return
 
 _2025cjm()
+
+
+def sujilia():
+    for student in data["student_data"]:
+        if student.get("email") == "sujilia@kaist.ac.kr":
+            print("========================================")
+            print("sujilia favorite_food: " + student["favorite_food"])
+            return
+
+
+sujilia()
