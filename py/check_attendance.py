@@ -168,3 +168,13 @@ def sujilia():
 
 
 sujilia()
+
+
+def eunji4475():
+    for student in data["student_data"]:
+        if student.get("email") == "eunji4475@kaist.ac.kr":
+            print('========================================')
+            print('eunji4475 mbti: ' + student["mbti"])
+
+
+eunji4475()
