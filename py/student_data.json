@@ -79,6 +79,11 @@
             "name": "Ainazik Abdyzhaparova",
             "email": "aitashina@kaist.ac.kr",
             "favorite_food": "samsa"
-        }
+        },
+	{
+	    "name": "Jaemin Choi",
+	    "email": "2025cjm@kaist.ac.kr",
+	    "favorite_restaurant": "Rolling Pasta"
+	}
    ]
 }   
