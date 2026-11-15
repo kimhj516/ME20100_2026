@@ -89,6 +89,11 @@
 	    "name": "Jaemin Choi",
 	    "email": "2025cjm@kaist.ac.kr",
 	    "favorite_restaurant": "Rolling Pasta"
-	}
+	},
+	{
+            "name": "Eunji Park",
+            "email": "eunji4475@kaist.ac.kr"
+        }
    ]
-}   
+   
+}
