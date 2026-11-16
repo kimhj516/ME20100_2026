@@ -214,3 +214,14 @@ def tabledolmen():
 
 
 tabledolmen()
+
+
+
+def gyko04():
+    for student in data["student_data"]:
+        if student.get("email") == "gyko04@kaist.ac.kr":
+            print("=======================================")
+            print("gyko mbti: " + student["mbti"])
+            return
+
+gyko04()
