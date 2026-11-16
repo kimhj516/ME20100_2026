@@ -102,7 +102,11 @@
             "name": "Subin Noh",
             "email": "nohsb@kaist.ac.kr",
             "hobby": "Watching Drama"
-        }
+        },
+	{
+    	    "name": "Kang San",
+    	    "email": "kangsan@kaist.ac.kr"
+	}
    ]
 }
 
