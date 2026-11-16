@@ -276,3 +276,15 @@ def jisun1105():
 
 
 jisun1105()
+
+
+
+def paul_kang():
+    for student in data["student_data"]:
+        if student.get("email") == "paul.kang@kaist.ac.kr":
+            print("========================================")
+            print("paul.kang mbti: " + student["mbti"])
+            return
+
+
+paul_kang()

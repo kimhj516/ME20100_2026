@@ -141,15 +141,14 @@
 	{
     	    "name": "Minjun Song",
     	    "email": "scirot207@kaist.ac.kr",
-    	    "mbti": "INFP"
+    	    "mbti": "INFP",
+	    "favorite_programming_language": "Python"
 	},
-	
 	{
 	    "name": "Hyunmin Kang",
 	    "email": "paul.kang@kaist.ac.kr",
 	    "mbti": "ISTJ"
 	}
-
    ]
 }
 
