@@ -2,6 +2,10 @@
 {
     "student_data": [
         {
+            "name": "Jisun Lee",
+            "email": "jisun1105@kaist.ac.kr"
+        },
+        {
             "name": "Suji Lee",
             "email": "sujilia@kaist.ac.kr",
             "favorite_food": "KimchiJjigae"
