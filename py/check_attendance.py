@@ -243,3 +243,14 @@ def kaist26076():
             return
 
 kaist26076()
+
+
+def joshua061009():
+    for student in data["student_data"]:
+        if student.get("email") == "joshua061009@kaist.ac.kr":
+            print("========================================")
+            print("joshua061009 favorite_train: " + student["favorite_train"])
+            return
+
+
+joshua061009()

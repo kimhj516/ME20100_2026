@@ -129,7 +129,8 @@
         },
 	{
 	    "name": "Jiho Yang",
-	    "email": "joshua061009@kaist.ac.kr"
+	    "email": "joshua061009@kaist.ac.kr",
+	    "favorite_train": "KTX-Cheongryong"
 	}
    ]
 }
