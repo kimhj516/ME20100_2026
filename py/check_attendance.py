@@ -265,3 +265,14 @@ def scirot207():
 
 scirot207()
 
+
+
+def jisun1105():
+    for student in data["student_data"]:
+        if student.get("email") == "jisun1105@kaist.ac.kr":
+            print("========================================")
+            print("jisun1105 favorite_food: " + student["favorite_food"])
+            return
+
+
+jisun1105()
