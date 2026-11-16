@@ -159,6 +159,11 @@
             "name": "Lee Kwanwoo",
             "email": "ushs201936@kaist.ac.kr",
             "hobby": "Flying drones"
+        },
+	{
+            "name": "Jihu Lee",
+            "email": "prime0330@kaist.ac.kr",
+            "hobby": "Building robots"
         }
     ]
 }
