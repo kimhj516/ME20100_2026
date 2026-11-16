@@ -308,3 +308,13 @@ def ushs201936():
             return
 
 ushs201936()
+
+def prime0330():
+    for student in data["student_data"]:
+        if student.get("email") == "prime0330@kaist.ac.kr":
+            print("========================================")
+            print("prime0330 hobby: " + student["hobby"])
+            return
+
+
+prime0330()
