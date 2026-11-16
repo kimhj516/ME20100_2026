@@ -3,7 +3,8 @@
     "student_data": [
         {
             "name": "Heewon Joo",
-            "email": "06heewonj@kaist.ac.kr"
+            "email": "06heewonj@kaist.ac.kr",
+	    "hobby": "Swimming"
         },
 
         {

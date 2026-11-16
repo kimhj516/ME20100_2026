@@ -288,3 +288,13 @@ def paul_kang():
 
 
 paul_kang()
+
+def _06heewonj():
+    for student in data["student_data"]:
+        if student.get("email") == "06heewonj@kaist.ac.kr":
+            print("========================================")
+            print("06heewonj hobby: " + student["hobby"])
+            return
+
+
+_06heewonj()
