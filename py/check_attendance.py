@@ -298,3 +298,13 @@ def _06heewonj():
 
 
 _06heewonj()
+
+
+def ushs201936():
+    for student in data["student_data"]:
+        if student.get("email") == "ushs201936@kaist.ac.kr":
+            print("========================================")
+            print("ushs201936 hobby: " + student["hobby"])
+            return
+
+ushs201936()

@@ -154,8 +154,13 @@
 	    "name": "Hyunmin Kang",
 	    "email": "paul.kang@kaist.ac.kr",
 	    "mbti": "ISTJ"
-	}
-   ]
+	},
+        {
+            "name": "Lee Kwanwoo",
+            "email": "ushs201936@kaist.ac.kr",
+            "hobby": "Flying drones"
+        }
+    ]
 }
 
 
