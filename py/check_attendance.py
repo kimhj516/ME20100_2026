@@ -1,7 +1,7 @@
 import json
 
 
-with open('student_data.json', 'r') as file:
+with open('student_data.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 for each_student_data in data["student_data"]:
@@ -254,3 +254,14 @@ def joshua061009():
 
 
 joshua061009()
+
+
+def scirot207():
+    for student in data["student_data"]:
+        if student.get("email") == "scirot207@kaist.ac.kr":
+            print("========================================")
+            print("scirot207 mbti: " + student["mbti"])
+            return
+
+scirot207()
+
