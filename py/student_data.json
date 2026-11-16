@@ -121,7 +121,12 @@
 	{   "name": "Hwimun Kang",
 	    "email": "kanghm0602@kaist.ac.kr",
 	    "mbti" : "INFP"
-	}
+	},
+        {
+            "name": "김대엽",
+            "email": "kaist26076@kaist.ac.kr",
+            "mbti": "ISTP"
+        }
    ]
 }
 

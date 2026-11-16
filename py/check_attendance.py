@@ -235,3 +235,11 @@ def kanghm0602():
             return
 
 kanghm0602()
+def kaist26076():
+    for student in data["student_data"]:
+        if student.get("email") == "kaist26076@kaist.ac.kr":
+            print("=======================================")
+            print("kaist26076 mbti: " + student["mbti"])
+            return
+
+kaist26076()
