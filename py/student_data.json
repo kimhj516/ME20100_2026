@@ -105,7 +105,8 @@
         },
 	{
     	    "name": "Kang San",
-    	    "email": "kangsan@kaist.ac.kr"
+    	    "email": "kangsan@kaist.ac.kr",
+	    "hobby": "Game development"
 	}
    ]
 }
