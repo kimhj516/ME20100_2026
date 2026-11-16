@@ -178,3 +178,15 @@ def eunji4475():
 
 
 eunji4475()
+
+
+
+def nohsb():
+    for student in data["student_data"]:
+        if student.get("email") == "nohsb@kaist.ac.kr":
+            print("========================================")
+            print("nohsb hobby: " + student["hobby"])
+            return
+
+
+nohsb()

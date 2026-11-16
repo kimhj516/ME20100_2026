@@ -1,3 +1,4 @@
+
 {
     "student_data": [
         {
@@ -99,7 +100,7 @@
         },
         {
             "name": "Subin Noh",
-            "email": "nohsb@kaist.ac.kr"
+            "email": "nohsb@kaist.ac.kr",
             "hobby": "Watching Drama"
         }
    ]
