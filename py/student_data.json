@@ -107,6 +107,11 @@
     	    "name": "Kang San",
     	    "email": "kangsan@kaist.ac.kr",
 	    "hobby": "Game development"
+	},
+	{
+	    "name": "Gayon Ko",
+	    "email": "gyko04@kaist.ac.kr",
+	    "hobby": "watching musicals"
 	}
    ]
 }
