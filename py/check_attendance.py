@@ -225,3 +225,13 @@ def gyko04():
             return
 
 gyko04()
+
+
+def kanghm0602():
+    for student in data["student_data"]:
+        if student.get("email") == "kanghm0602@kaist.ac.kr":
+            print("=======================================")
+            print("kanghm0602 mbti: " + student["mbti"])
+            return
+
+kanghm0602()
