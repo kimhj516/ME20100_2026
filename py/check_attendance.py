@@ -190,3 +190,16 @@ def nohsb():
 
 
 nohsb()
+
+
+
+def kangsan():
+    for student in data["student_data"]:
+        if student.get("email") == "kangsan@kaist.ac.kr":
+            print("========================================")
+            print("kangsan hobby: " + student["hobby"])
+            return
+
+
+kangsan()
+
