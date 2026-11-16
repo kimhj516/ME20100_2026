@@ -112,6 +112,11 @@
 	    "name": "Gayon Ko",
 	    "email": "gyko04@kaist.ac.kr",
 	    "hobby": "watching musicals"
+        },
+        {
+	    "name": "Soeun Shin",
+	    "email": "tabledolmen@kaist.ac.kr",
+	    "hobby": "Watching baseball games"
 	}
    ]
 }
