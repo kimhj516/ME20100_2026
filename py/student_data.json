@@ -107,6 +107,11 @@
     	    "name": "Kang San",
     	    "email": "kangsan@kaist.ac.kr",
 	    "hobby": "Game development"
+        },
+        {
+	    "name": "Soeun Shin",
+	    "email": "tabledolmen@kaist.ac.kr",
+	    "hobby": "Watching baseball games"
 	}
    ]
 }

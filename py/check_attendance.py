@@ -203,3 +203,14 @@ def kangsan():
 
 kangsan()
 
+
+
+def tabledolmen():
+    for student in data["student_data"]:
+        if student.get("email") == "tabledolmen@kaist.ac.kr":
+            print("========================================")
+            print("tabledolmen hobby: " + student["hobby"])
+            return
+
+
+tabledolmen()
